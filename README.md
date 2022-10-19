@@ -10,16 +10,16 @@
 
 ## 커리큘럼
 
-[📝 1장 세팅](./README/Setting/1.Setting.md)  
-[🚀 2장 HTML세팅](./README/HTML/2-1.Setting.md)  
-[🎨 3장 CSS](./README/CSS/3.CSS.md)  
-[✅ 4장 STICKER_AI](./README/Sticker/4.Sticker.md)  
-[🗃 5장 SQL](./README/SQL/5.SQL.md)  
-[✏️ 6장 ORM](./README/ORM/6.ORM.md)  
-[✏️ 6장 GCP](./README/GCP/6.GCP.md)  
-[💚 7장 GCP](./README/GCP/7.GCP.md)  
-[💚 7-2장 FireWall](./README/GCP/7-2.FireWall.md)  
-[📈 8장 Deploy](./README/Deploy/8.Deploy.md)
+[📝 1장 세팅](https://github.com/aiffelDjango/KUD/blob/main/README/Setting/1.Setting.md)  
+[🚀 2장 HTML세팅](https://github.com/aiffelDjango/KUD/blob/main/README/HTML/2-1.Setting.md)  
+[🎨 3장 CSS](https://github.com/aiffelDjango/KUD/blob/main/README/CSS/3.CSS.md)  
+[✅ 4장 STICKER_AI](https://github.com/aiffelDjango/KUD/blob/main/README/Sticker/4.Sticker.md)  
+[🗃 5장 SQL](https://github.com/aiffelDjango/KUD/blob/main/README/SQL/5.SQL.md)  
+[✏️ 6장 ORM](https://github.com/aiffelDjango/KUD/blob/main/README/ORM/6.ORM.md)  
+[✏️ 6장 GCP](https://github.com/aiffelDjango/KUD/blob/main/README/GCP/6.GCP.md)  
+[💚 7장 GCP](https://github.com/aiffelDjango/KUD/blob/main/README/GCP/7.GCP.md)  
+[💚 7-2장 FireWall](https://github.com/aiffelDjango/KUD/blob/main/README/GCP/7-2.FireWall.md)  
+[📈 8장 Deploy](https://github.com/aiffelDjango/KUD/blob/main/README/Deploy/8.Deploy.md)
 
 # Getting Started With Django
 
